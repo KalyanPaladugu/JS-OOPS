@@ -28,3 +28,8 @@ Map:
 Diffrence between filter and map function:
 ------------------------------------------
  + filter() returns a subset of the elements from the original array, while . map() produces an array with new, different entries based on the elements in the original array
+ 
+ Difference between foreach and map function:
+ --------------------------------------------
+ + forEach() — executes a provided function once for each array element.
+ + map() — creates a new array with the results of calling a provided function on every element in the calling array.
